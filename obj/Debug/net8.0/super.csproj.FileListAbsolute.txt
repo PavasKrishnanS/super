@@ -1,0 +1,14 @@
+c:\Users\Pavas Krishnan S\Desktop\super\bin\Debug\net8.0\super.exe
+c:\Users\Pavas Krishnan S\Desktop\super\bin\Debug\net8.0\super.deps.json
+c:\Users\Pavas Krishnan S\Desktop\super\bin\Debug\net8.0\super.runtimeconfig.json
+c:\Users\Pavas Krishnan S\Desktop\super\bin\Debug\net8.0\super.dll
+c:\Users\Pavas Krishnan S\Desktop\super\bin\Debug\net8.0\super.pdb
+c:\Users\Pavas Krishnan S\Desktop\super\obj\Debug\net8.0\super.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Pavas Krishnan S\Desktop\super\obj\Debug\net8.0\super.AssemblyInfoInputs.cache
+c:\Users\Pavas Krishnan S\Desktop\super\obj\Debug\net8.0\super.AssemblyInfo.cs
+c:\Users\Pavas Krishnan S\Desktop\super\obj\Debug\net8.0\super.csproj.CoreCompileInputs.cache
+c:\Users\Pavas Krishnan S\Desktop\super\obj\Debug\net8.0\super.dll
+c:\Users\Pavas Krishnan S\Desktop\super\obj\Debug\net8.0\refint\super.dll
+c:\Users\Pavas Krishnan S\Desktop\super\obj\Debug\net8.0\super.pdb
+c:\Users\Pavas Krishnan S\Desktop\super\obj\Debug\net8.0\super.genruntimeconfig.cache
+c:\Users\Pavas Krishnan S\Desktop\super\obj\Debug\net8.0\ref\super.dll
